@@ -1,0 +1,14 @@
+D:\Users\saswavlo\Desktop\CsharpProjects\HeroMonsterChallange\bin\Debug\net9.0\HeroMonsterChallange.exe
+D:\Users\saswavlo\Desktop\CsharpProjects\HeroMonsterChallange\bin\Debug\net9.0\HeroMonsterChallange.deps.json
+D:\Users\saswavlo\Desktop\CsharpProjects\HeroMonsterChallange\bin\Debug\net9.0\HeroMonsterChallange.runtimeconfig.json
+D:\Users\saswavlo\Desktop\CsharpProjects\HeroMonsterChallange\bin\Debug\net9.0\HeroMonsterChallange.dll
+D:\Users\saswavlo\Desktop\CsharpProjects\HeroMonsterChallange\bin\Debug\net9.0\HeroMonsterChallange.pdb
+D:\Users\saswavlo\Desktop\CsharpProjects\HeroMonsterChallange\obj\Debug\net9.0\HeroMonsterChallange.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\saswavlo\Desktop\CsharpProjects\HeroMonsterChallange\obj\Debug\net9.0\HeroMonsterChallange.AssemblyInfoInputs.cache
+D:\Users\saswavlo\Desktop\CsharpProjects\HeroMonsterChallange\obj\Debug\net9.0\HeroMonsterChallange.AssemblyInfo.cs
+D:\Users\saswavlo\Desktop\CsharpProjects\HeroMonsterChallange\obj\Debug\net9.0\HeroMonsterChallange.csproj.CoreCompileInputs.cache
+D:\Users\saswavlo\Desktop\CsharpProjects\HeroMonsterChallange\obj\Debug\net9.0\HeroMonsterChallange.dll
+D:\Users\saswavlo\Desktop\CsharpProjects\HeroMonsterChallange\obj\Debug\net9.0\refint\HeroMonsterChallange.dll
+D:\Users\saswavlo\Desktop\CsharpProjects\HeroMonsterChallange\obj\Debug\net9.0\HeroMonsterChallange.pdb
+D:\Users\saswavlo\Desktop\CsharpProjects\HeroMonsterChallange\obj\Debug\net9.0\HeroMonsterChallange.genruntimeconfig.cache
+D:\Users\saswavlo\Desktop\CsharpProjects\HeroMonsterChallange\obj\Debug\net9.0\ref\HeroMonsterChallange.dll
